@@ -1,0 +1,7 @@
+hostnamectl
+uptime
+uname -a 
+lscpu
+free -h
+ipconig /all
+df -hT
